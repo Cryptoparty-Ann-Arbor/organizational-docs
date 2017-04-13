@@ -1,5 +1,5 @@
 
-**| date       | mc/booking    | marketing  | volunteer  | volunteer  | volunteer  |**
+| date         | mc/booking    | marketing  | volunteer  | volunteer  | volunteer  |
 | ------------ |:-------------:|:----------:|:----------:|:----------:|:----------:|
 | 5/13/17      | dave          | mike       | kim        |            |            |
 | 6/10/17      |               |            |            |            |            |
