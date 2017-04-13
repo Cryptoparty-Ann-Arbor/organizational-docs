@@ -1,6 +1,8 @@
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+**| date       | mc/booking    | marketing  | volunteer  | volunteer  | volunteer  |**
+| ------------ |:-------------:|:----------:|:----------:|:----------:|:----------:|
+| 5/13/17      | dave          | mike       | kim        |            |            |
+| 6/10/17      |               |            |            |            |            |
+| 7/8/17       |               |            |            |            |            |
+| 8/12/17      |               |            |            |            |            |
+| 9/9/17       |               |            |            |            |            |
